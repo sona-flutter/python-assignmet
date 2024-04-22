@@ -1,4 +1,4 @@
-row=int(input("Enter the number"))
+row=5
 for i in range(row):
     num=1
     for j in range(i+1):
